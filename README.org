@@ -1,2 +1,3 @@
 # rtc-lib
-RTC library for microcontrollers
+
+#+TITLE: RTC library for microcontrollers
